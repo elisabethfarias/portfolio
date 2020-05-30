@@ -1,0 +1,25 @@
+body {
+  background: #282a36;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+}
+
+nav a {
+  color: white !important;
+}
+
+a {
+  color: white;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+footer {
+  margin-bottom: 20px;
+}
+
+.social-icons {
+  max-height: 35px;
+}

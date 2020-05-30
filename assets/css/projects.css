@@ -1,0 +1,13 @@
+.card {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: black;
+}
+
+.image-card {
+  max-height: 180px;
+  min-height: 180px;
+}
+
+.card-text {
+  min-height: 120px;
+}
